@@ -1,8 +1,5 @@
 RENCANA BISA
-
-- HTML
-  * HTML 3
-  * HTML 5
-- Struktur Data dan Algoritma
 - Javascript
 - PHP Framework
+-Buat Lapangan kerja sendiri
+- ingin menjadi lebih suka ngoding
